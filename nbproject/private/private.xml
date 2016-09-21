@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/sergio/NetBeansProjects/SistemaNotas/src/java/modelo/conexion/Consulta.java</file>
+            <file>file:/home/sergio/NetBeansProjects/SistemaNotas/src/java/modelo/ICrud.java</file>
+            <file>file:/home/sergio/NetBeansProjects/SistemaNotas/src/java/controlador/servlets/Registrador.java</file>
+            <file>file:/home/sergio/NetBeansProjects/SistemaNotas/src/java/modelo/Nota.java</file>
+            <file>file:/home/sergio/NetBeansProjects/SistemaNotas/src/java/modelo/usuarios/Persona.java</file>
+            <file>file:/home/sergio/NetBeansProjects/SistemaNotas/web/index.jsp</file>
+            <file>file:/home/sergio/NetBeansProjects/SistemaNotas/src/java/modelo/usuarios/IPersona.java</file>
+            <file>file:/home/sergio/NetBeansProjects/SistemaNotas/web/EditarEstudiane.jsp</file>
+            <file>file:/home/sergio/NetBeansProjects/SistemaNotas/src/java/controlador/servlets/SrvltEstudiante.java</file>
+            <file>file:/home/sergio/NetBeansProjects/SistemaNotas/src/java/modelo/usuarios/Estudiante.java</file>
+            <file>file:/home/sergio/NetBeansProjects/SistemaNotas/src/java/modelo/usuarios/Profesor.java</file>
+            <file>file:/home/sergio/NetBeansProjects/SistemaNotas/src/java/modelo/conexion/SQLConector.java</file>
+            <file>file:/home/sergio/NetBeansProjects/SistemaNotas/src/java/modelo/Asignatura.java</file>
+            <file>file:/home/sergio/NetBeansProjects/SistemaNotas/web/estudiantes.jsp</file>
+        </group>
+    </open-files>
+</project-private>
